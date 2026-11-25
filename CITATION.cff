@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SKORE: Skeleton-Key Oriented Routing for Entity resolution of transliterated author names"
+authors:
+  - family-names: "Safaei Sadegh"
+    given-names: "Mohammad Saeid"
+    email: "s.safaei@iau.ac.ir"
+    affiliation: "Department of Computer Engineering, Qom Branch, Islamic Azad University"
+  - family-names: "Sharif"
+    given-names: "Ahmad"
+    email: "ah.sharif@iau.ac.ir"
+    affiliation: "Department of Computer Engineering, Qom Branch, Islamic Azad University"
+repository-code: "https://github.com/saeidsafaei/psk"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-25"
